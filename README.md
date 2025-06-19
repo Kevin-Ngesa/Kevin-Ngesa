@@ -1,16 +1,56 @@
-## Hi there 👋
+<img src="https://avatars.githubusercontent.com/u/https://avatars.githubusercontent.com/u/91784480?s=400&u=559a66ab6229968027ac6dceff00c87130280bc4&v=4?v=4" width="100" align="left" style="border-radius: 50%;" />
 
-<!--
-**Kevin-Ngesa/Kevin-Ngesa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Kevin Ngesa 👋
 
-Here are some ideas to get you started:
+🎯 MERN Stack Web Developer | Founder of [Ngesa Devs & Practical Devs](https://github.com/Kevin-Ngesa)  
+📍 Based in Kenya | Passionate about building scalable web solutions  
+🚀 **Let’s do it.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+I'm a full-stack developer focused on helping individuals and businesses increase visibility, attract clients, and grow digitally. Through my blog and projects, I teach practical development and real-world application.
+
+---
+
+## 🛠️ Tech Stack
+![React](https://img.shields.io/badge/-React-black?logo=react&style=flat)
+![Node.js](https://img.shields.io/badge/-Node.js-black?logo=node.js&style=flat)
+![Express](https://img.shields.io/badge/-Express-black?logo=express&style=flat)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?logo=mongodb&style=flat)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?logo=tailwind-css&style=flat)
+![Git](https://img.shields.io/badge/-Git-black?logo=git&style=flat)
+
+---
+
+## 🌐 Projects
+Here are some of my featured projects:
+
+### 🔗 [💼 Luku254 – Boutique Management System](https://kevinngesaportfolio1.vercel.app/)
+An all-in-one online store platform with M-Pesa STK push, reporting, and admin panel.
+
+### 🌍 [🧠 Practical Devs Blog](https://kevinngesaportfolio1.vercel.app/)
+Learn modern web development by building real-world components with React + Tailwind.
+
+### 📁 [🎨 Portfolio Website](https://kevinngesaportfolio1.vercel.app/)
+A 3D interactive developer portfolio built with React, Tailwind, Framer Motion & Three.js.
+
+---
+
+## 📈 GitHub Stats
+
+![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kevin-Ngesa&show_icons=true&theme=react&hide_border=true)
+
+---
+
+## 📬 Connect with Me
+
+- 🌍 Website: [kevinngesa.dev](https://kevinngesaportfolio1.vercel.app/)
+- 💼 LinkedIn: [kevinngesa](https://www.linkedin.com/in/ngesa-dev/)
+- 📧 Email: ngesa.dev@gmail.com
+
+---
+
+> “Let’s do it.” — Ngesa Devs ✨
+
