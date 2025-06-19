@@ -39,8 +39,8 @@ A 3D interactive developer portfolio built with React, Tailwind, Framer Motion &
 ---
 
 ## 📈 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=ngesa-dev&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngesa-dev&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=Kevin-Ngesa&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-Ngesa&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
 
 ---
 
